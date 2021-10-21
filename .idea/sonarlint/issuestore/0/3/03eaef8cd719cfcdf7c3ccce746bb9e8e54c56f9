@@ -1,0 +1,13 @@
+
+[
+java:S4684F"@Replace this persistent entity with a simple POJO or DTO object.(òçÃÓıÿÿÿÿ
+[
+java:S4684W"@Replace this persistent entity with a simple POJO or DTO object.(ÒÙ­ùÿÿÿÿ
+E
+java:S1172s"/Remove this unused method parameter "lastName".(ÿÔ­¡
+\
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ŒÃ–Šøÿÿÿÿ
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8«õÔÊ/
+g
+java:S1128"JRemove this unused import 'org.springframework.samples.petclinic.vet.Vet'.(äıçë8«õÔÊ/

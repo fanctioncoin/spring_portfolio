@@ -1,0 +1,15 @@
+
+l
+java:S1128"JRemove this unused import 'org.springframework.data.jpa.repository.Query'.(Äºöïşÿÿÿÿ8‡ê³ÓÉ/
+i
+java:S1128"LRemove this unused import 'org.springframework.data.repository.query.Param'.(©”šô8‡ê³ÓÉ/
+p
+java:S1128"NRemove this unused import 'org.springframework.samples.petclinic.owner.Owner'.(“¼ç§üÿÿÿÿ8È¡ÓÉ/
+m
+java:S1128"PRemove this unused import 'org.springframework.samples.petclinic.owner.PetType'.(ùÎ½Ò8«ó÷ÅÉ/
+p
+java:S1128"NRemove this unused import 'org.springframework.samples.petclinic.visit.Visit'.(•Ÿ Úøÿÿÿÿ8‡ê³ÓÉ/
+^
+java:S1128"BRemove this unused import 'javax.validation.constraints.NotEmpty'.(ÿÿör8ï×ŒÇÉ/
+M
+java:S1128 "+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ªé–ÇÉ/
