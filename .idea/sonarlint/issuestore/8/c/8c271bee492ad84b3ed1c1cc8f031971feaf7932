@@ -1,0 +1,17 @@
+
+V
+java:S4684^"@Replace this persistent entity with a simple POJO or DTO object.(ÑêôÃ
+V
+java:S4684t"@Replace this persistent entity with a simple POJO or DTO object.(ÿÕ×ç
+[
+java:S4684v"@Replace this persistent entity with a simple POJO or DTO object.(½Øäµüÿÿÿÿ
+[
+java:S1128"9Remove this unused import 'org.springframework.ui.Model'.(ê†ıÿÿÿÿ8áªîÊ/
+^
+java:S1128"<Remove this unused import 'org.springframework.ui.ModelMap'.(ÊÁâºùÿÿÿÿ8áªîÊ/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8áªîÊ/
+I
+java:S1068.",Remove this unused "isCancel" private field.(ÿ•ºı8ï›Ê/
+v
+java:S1192d"[Define a constant instead of duplicating this literal "redirect:/owners/{ownerId}" 3 times.(‚óÑ©ùÿÿÿÿ
